@@ -16,6 +16,7 @@ namespace ConsoleApplication2
             int c = 5;
             int d = 6;
             int e = 7;
+            int u = 9;
         }
     }
 }
